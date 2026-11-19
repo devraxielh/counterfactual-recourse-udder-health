@@ -1,0 +1,17 @@
+feature,dtype,min,max,n_unique
+farm_id,int64,1.0,91.0,90
+ps,int64,0.0,1.0,2
+tm,int64,0.0,1.0,2
+mp,int64,0.0,1.0,2
+ml,int64,0.0,1.0,2
+efj,int64,0.0,1.0,2
+cmt,int64,0.0,1.0,2
+pv,int64,0.0,1.0,2
+tw,int64,0.0,1.0,2
+ppd,int64,0.0,1.0,2
+its,int64,0.0,1.0,2
+td,int64,0.0,1.0,2
+scc_k,int64,6.0,1649.0,85
+scc_log,float64,3.77815,6.21722,85
+scc_over_400,int64,0.0,1.0,2
+scc_high,int64,0.0,1.0,2
